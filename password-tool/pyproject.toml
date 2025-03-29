@@ -1,0 +1,9 @@
+[project]
+name = "password-tool"
+version = "0.1.0"
+description = "This is a Password Strength Meter and Password Generator project using python and streamlit for web app."
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "streamlit>=1.43.2",
+]
